@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="Image/homesales.png"  height = 300 width = 900>
+  <img src="Image/homesales.png"  height = 450 width = 900>
 
 </p>
 
@@ -40,42 +40,42 @@ In this report, I utilized SparkSQL to analyze and derive key metrics from home 
 </br>
 <p align="center">
 
-  <img src="Image/1.png"  height = 300 width = 900>
+  <img src="Image/1.png"  height = 400 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/2.png"  height = 300 width = 900>
+  <img src="Image/2.png"  height = 400 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/3.png"  height = 300 width = 900>
+  <img src="Image/3.png"  height = 400 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/4.png"  height = 300 width = 900>
+  <img src="Image/4.png"  height = 400 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/5.png"  height = 300 width = 900>
+  <img src="Image/5.png"  height = 400 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/6.png"  height = 300 width = 900>
+  <img src="Image/6.png"  height = 400 width = 900>
 
 </p>
 
