@@ -61,21 +61,21 @@ In this report, I utilized SparkSQL to analyze and derive key metrics from home 
 </br>
 <p align="center">
 
-  <img src="Image/4.png"  height = 400 width = 900>
+  <img src="Image/6_1.png"  height = 800 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/5.png"  height = 400 width = 900>
+  <img src="Image/9_1.png"  height = 800 width = 900>
 
 </p>
 
 </br>
 <p align="center">
 
-  <img src="Image/6.png"  height = 400 width = 900>
+  <img src="Image/13_1.png"  height = 800 width = 900>
 
 </p>
 
@@ -87,4 +87,4 @@ In this report, I utilized SparkSQL to analyze and derive key metrics from home 
 
 ## **Summary**
 
-`In this analysis, the efficiency of different methods in processing a large dataset was evaluated based on their runtime. The uncached method, which did not utilize caching or partitioning, took 0.0833 seconds to complete the task. On the other hand, the cached method, incorporating caching, significantly improved performance and reduced the runtime to 0.07413 seconds. The most efficient method was the parquet partitioned approach, which combined caching and partitioning techniques, resulting in a runtime of 0.0602 seconds. These results demonstrate that leveraging caching and partitioning can lead to substantial improvements in processing time for data analysis tasks involving large datasets.`
+`In this analysis, the efficiency of different methods in processing a large dataset was evaluated based on their runtime. The uncached method, which did not utilize caching or partitioning, took 0.1487 seconds to complete the task. On the other hand, the cached method, incorporating caching, significantly improved performance and reduced the runtime to 0.1229 seconds. The most efficient method was the parquet partitioned approach, which combined caching and partitioning techniques, resulting in a runtime of 0.1181 seconds. These results demonstrate that leveraging caching and partitioning can lead to substantial improvements in processing time for data analysis tasks involving large datasets.`
